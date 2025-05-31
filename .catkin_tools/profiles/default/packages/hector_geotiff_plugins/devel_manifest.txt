@@ -1,0 +1,6 @@
+hector_slam/hector_geotiff_plugins
+/root/catkin_ws/devel/.private/hector_geotiff_plugins/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/hector_geotiff_plugins/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig.cmake /root/catkin_ws/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig.cmake
+/root/catkin_ws/devel/.private/hector_geotiff_plugins/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig-version.cmake /root/catkin_ws/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig-version.cmake
+/root/catkin_ws/devel/.private/hector_geotiff_plugins/lib/libhector_geotiff_plugins.so /root/catkin_ws/devel/lib/libhector_geotiff_plugins.so
+/root/catkin_ws/devel/.private/hector_geotiff_plugins/lib/pkgconfig/hector_geotiff_plugins.pc /root/catkin_ws/devel/lib/pkgconfig/hector_geotiff_plugins.pc

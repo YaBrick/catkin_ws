@@ -1,0 +1,5 @@
+debug
+/root/catkin_ws/devel/.private/debug/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/debug/share/debug/cmake/debugConfig-version.cmake /root/catkin_ws/devel/share/debug/cmake/debugConfig-version.cmake
+/root/catkin_ws/devel/.private/debug/share/debug/cmake/debugConfig.cmake /root/catkin_ws/devel/share/debug/cmake/debugConfig.cmake
+/root/catkin_ws/devel/.private/debug/lib/pkgconfig/debug.pc /root/catkin_ws/devel/lib/pkgconfig/debug.pc

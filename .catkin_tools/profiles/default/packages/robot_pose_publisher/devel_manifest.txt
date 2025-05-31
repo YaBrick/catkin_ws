@@ -1,0 +1,6 @@
+robot_pose_publisher
+/root/catkin_ws/devel/.private/robot_pose_publisher/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig-version.cmake /root/catkin_ws/devel/share/robot_pose_publisher/cmake/robot_pose_publisherConfig-version.cmake
+/root/catkin_ws/devel/.private/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake /root/catkin_ws/devel/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake
+/root/catkin_ws/devel/.private/robot_pose_publisher/lib/pkgconfig/robot_pose_publisher.pc /root/catkin_ws/devel/lib/pkgconfig/robot_pose_publisher.pc
+/root/catkin_ws/devel/.private/robot_pose_publisher/lib/robot_pose_publisher/robot_pose_publisher /root/catkin_ws/devel/lib/robot_pose_publisher/robot_pose_publisher

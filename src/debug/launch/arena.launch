@@ -1,0 +1,16 @@
+<launch>
+  <arg name="world" default="arena"/>  <!-- Nome base do mundo -->
+  <arg name="world_file" default="$(find debug)/worlds/arena.world"/>
+  
+  <!-- Configurações do Gazebo -->
+  <arg name="gui" default="true"/>
+  <arg name="physics" default="ode"/>
+  <!-- Iniciar Gazebo -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(arg world_file)"/>
+    <arg name="extra_gazebo_args" value="--verbose"/>
+    <arg name="physics" value="$(arg physics)"/>
+    <arg name="gui" value="$(arg gui)"/>
+    <arg name="headless" value="false"/>
+  </include>
+</launch>

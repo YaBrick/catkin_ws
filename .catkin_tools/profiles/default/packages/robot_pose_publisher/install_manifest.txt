@@ -1,0 +1,16 @@
+/root/catkin_ws/install/_setup_util.py
+/root/catkin_ws/install/env.sh
+/root/catkin_ws/install/setup.bash
+/root/catkin_ws/install/local_setup.bash
+/root/catkin_ws/install/setup.sh
+/root/catkin_ws/install/local_setup.sh
+/root/catkin_ws/install/setup.zsh
+/root/catkin_ws/install/local_setup.zsh
+/root/catkin_ws/install/setup.fish
+/root/catkin_ws/install/local_setup.fish
+/root/catkin_ws/install/.rosinstall
+/root/catkin_ws/install/lib/pkgconfig/robot_pose_publisher.pc
+/root/catkin_ws/install/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake
+/root/catkin_ws/install/share/robot_pose_publisher/cmake/robot_pose_publisherConfig-version.cmake
+/root/catkin_ws/install/share/robot_pose_publisher/package.xml
+/root/catkin_ws/install/lib/robot_pose_publisher/robot_pose_publisher

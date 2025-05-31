@@ -1,0 +1,25 @@
+# Игнорировать папки, генерируемые catkin
+/build/
+/build_isolated/
+/devel/
+/devel_isolated/
+/install/
+/install_isolated/
+/logs/
+.release/
+
+# Игнорировать все бинарники и объекты
+*.o
+*.so
+*.a
+*.pyc
+__pycache__/
+
+# Игнорировать IDE-папки
+*.swp
+*~
+.vscode/
+.idea/
+
+# Игнорировать конфиг файлы пользователя (опционально)
+/.env
