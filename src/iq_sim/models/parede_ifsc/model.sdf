@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+
+  <!-- Parede com Logo do IFSC -->
+  <model name="wall_IFSC">
+    <static>true</static>
+    <link name="link">  	
+      <collision name="collision">
+        <geometry>
+          <box>
+            <size>8 0.1 3</size>
+          </box>
+        </geometry>
+      </collision>
+    
+      <visual name="visual">
+        <geometry>
+          <box>
+            <size>8 0.1 3</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+    	    <uri>model://parede_ifsc/materials/scripts</uri>
+	    <uri>model://parede_ifsc/materials/textures</uri>
+	    <name>parede_material</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

@@ -1,0 +1,8 @@
+digraph G {
+"base_link" -> "height_sensor_link"[label="Broadcaster: /base_to_height_lidar\nAverage rate: 11.429 Hz\nMost recent transform: 13.648 ( -0.030 sec old)\nBuffer length: 0.700 sec\n"];
+"base_link" -> "hokuyo_sensor_link"[label="Broadcaster: /base_to_hokuyo\nAverage rate: 11.429 Hz\nMost recent transform: 13.655 ( -0.037 sec old)\nBuffer length: 0.700 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 13.617"[ shape=plaintext ] ;
+ }->"base_link";
+}
